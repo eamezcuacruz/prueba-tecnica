@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/text/process", "destination": "/api/process" },
+    { "source": "/text/transform", "destination": "/api/transform" }
+  ]
+}
